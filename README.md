@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md Saiyad Husain
+- 👋 Hi, I’m Mohammad Saiyad Husain
 - 👀 I’m interested in Frontend and UI development using react,redux,ionic,reactnative,javascript.
 - 🌱 I’m currently learning Spring Boot Application using React,Redux,Spring Boot and MongoDB
 - 💞️ I’m looking to collaborate on FullStack Application and Mobile apps
